@@ -16,17 +16,17 @@ Welcome to my GitHub page! I'm Amós Silva, a Senior Android Developer with over
 ### 🌟 Featured Projects
 Below are some of the projects I'm most proud of. Feel free to check them out and let me know what you think!
 
-#### [Project Name 1](GitHub-Link)
-*A brief description of the project and what it does.*
+#### [Weather Forecast](https://github.com/AmosSilva/weather-forecast)
+*Weather Forecast is an innovative weather forecast application designed to provide users with accurate, real-time weather information. Leveraging cutting-edge technologies and sophisticated algorithms, WeatherWise offers detailed weather forecasts, including temperature, humidity, precipitation, and wind speed, tailored to your specific location. Whether you're planning your week, trying to avoid rain on a picnic, or ensuring safe conditions for outdoor work, WeatherWise is your go-to source for all things weather.*
 
-#### [Project Name 2](GitHub-Link)
+#### [PicPay Android Challenge](https://github.com/AmosSilva/picpay-android-challenge)
 *Another brief description about this project.*
 
-#### [Project Name 3](GitHub-Link)
+#### [Falou Android Challenge](https://github.com/AmosSilva/falou-android-challenge)
 *Another brief description about this project.*
 
 ### 📫 How to Reach Me
-- **LinkedIn:** [LinkedIn](LinkedIn-link)
+- **LinkedIn:** [amossilva](https://www.linkedin.com/in/amossilva/)
 - **Email:** amosgoncalves.silva@gmail.com
 
 ### 📚 Continuous Learning
